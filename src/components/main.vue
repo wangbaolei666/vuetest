@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
 			这是网站的首页
+			<hr>
+			这是网站首页的主体部分
   </div>
 </template>
 
